@@ -1,0 +1,24 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "prueba descr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.26.1",
+    "cross-fetch": "^3.1.5",
+    "fetch": "^1.1.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.2.3",
+    "puppeteer": "^13.1.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "whatwg-fetch": "^3.6.2"
+  }
+}
