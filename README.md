@@ -1,7 +1,7 @@
-# PruebaBot-Windows
+# bot
 
-##Instalacion
-Correr npm install
+## Install
+`npm install`
 
-##Correr el script
+## Run script
 `node index.js`
